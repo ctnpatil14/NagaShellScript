@@ -22,3 +22,13 @@ sed -i '/^$/d' loops*
 #three 
 #3loops 
 
+
+#while loop 
+
+while 
+
+git remote add origin https://github.com/ctnpatil14/NagaShellScript.git
+
+git branch -M main
+
+git push -u origin main
